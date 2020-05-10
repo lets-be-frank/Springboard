@@ -1,0 +1,23 @@
+1. Standardizing/Normalizing Data
+https://medium.com/@swethalakshmanan14/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff
+
+2. Missing Value
+https://youtu.be/EaGbS7eWSs0
+
+3. Recording Features
+https://youtu.be/Q2nFweWoL2M
+
+4. Duplicate Data
+https://youtu.be/ht5buXUMqkQ
+
+5. Train/test Data Split
+https://youtu.be/fwY9Qv96DJY
+
+6. Cross Validation
+https://youtu.be/gJo0uNL-5Qw
+
+7. Imbalanced Data
+https://youtu.be/YMPMZmlH5Bo
+
+8. Feature Engineering
+https://youtu.be/4-4pKPv9lJ4
