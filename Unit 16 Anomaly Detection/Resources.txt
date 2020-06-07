@@ -1,0 +1,26 @@
+1. Unsupervised Learning: K-Means Clustering
+https://youtu.be/J0A_tkIgutw
+
+
+2. k-means Anomaly Detection Activity
+https://blog.floydhub.com/introduction-to-anomaly-detection-in-python/
+
+
+3. Unsupervised Learning: PCA
+https://www.oreilly.com/library/view/hands-on-unsupervised-learning/9781492035633/ch04.html
+
+
+4. PCA vs. K-means Comparison
+https://stats.stackexchange.com/questions/183236/what-is-the-relation-between-k-means-clustering-and-pca
+
+5. Support Vector Machine (SVM)
+https://towardsdatascience.com/outlier-detection-with-one-class-svms-5403a1a1878c
+
+7. Hybrid Isolation Forest 
+https://youtu.be/5p8B2Ikcw-k
+
+8. Neural Networks: Autoencoder vs. PCA
+https://towardsdatascience.com/machine-learning-for-anomaly-detection-and-condition-monitoring-d4614e7de770
+
+9. Survey on Deep Learning-Based Methods
+https://arxiv.org/pdf/1901.03407.pdf
